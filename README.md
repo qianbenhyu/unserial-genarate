@@ -1,4 +1,3 @@
-###########################################用友的反序列化生成工具##############################################
 1、支持CC6/CC7
 2、POST你的路径如：/service/ECFileManageServlet、/service/~baseapp/UploadServlet等
 3、usage：unserial-genarate.exe
